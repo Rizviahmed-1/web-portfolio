@@ -12,10 +12,15 @@ body{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 2%;
-    padding-left:10px 40px 20px 10px;
-    margin-right: 5%;
+   margin-left: 10px;
 }
+
+.half-width{
+
+       padding-left: 40px;
+       background-color: rebeccapurple;
+}
+
 .header{
     background-repeat: no-repeat;
 }
